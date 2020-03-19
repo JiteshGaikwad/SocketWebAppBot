@@ -34,4 +34,4 @@ you will see the webchat in the browser
 if you want to run the bot on a system  other than your local sysem, you can open it by replacing the `localhost` with your local system's ip address, for e.g., refer the below url:
 > http://192.168.0.1:3000/
 
-**Note**: *Make sure if you are accessing from other system, make sure both the local system and other system are connected within the same network*
+**Note**: *if you are accessing from other system, make sure both the local system and other system are connected within the same network*
